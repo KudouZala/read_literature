@@ -1,0 +1,15 @@
+%0 Journal Article
+%A Zhongliang Li ;Rachid Outbib ;Stefan Giurgea ;Daniel Hissel ;Samir Jemei ;Alain Giraud ;Sébastien Rosini 
+%O 1 FCLAB (FR CNRS 3539) - La Fédération de Recherche CNRS 2 FEMTO-ST - Franche-Comté Électronique Mécanique, Thermique et Optique - Sciences et Technologies (UMR 6174) 3 LIS - Laboratoire d'Informatique et Systèmes 4 LSIS - Laboratoire des Sciences de l'Information et des Systèmes 5 DACLE-LIST - Département d'Architectures, Conception et Logiciels Embarqués-LIST 6 LITEN - Laboratoire d'Innovation pour les Technologies des Energies Nouvelles et les nanomatériaux
+%T Online implementation of SVM based fault diagnosis strategy for PEMFC systems
+%J Applied Energy
+%D 2016
+%V Vol.164
+%N No.2
+%P 284-293
+%K Online implementation;SVM classification;Fault diagnosis;PEMFC system;System in Package
+%X In this paper, the topic of online diagnosis for Polymer Electrolyte Membrane Fuel Cell (PEMFC) systems is addressed. In the diagnosis approach, individual cell voltages are used as the variables for diagnosis. The pattern classification tool Support Vector Machine (SVM) combined with designed diagnosis rule is used to achieve fault detection and isolation (FDI). A highly-compacted embedded system of the System in Package (SiP) type is designed and fabricated to monitor individual cell voltages and to perform the diagnosis algorithms. For validation, the diagnosis approach is implemented online on PEMFC experimental platform. Four concerned faults can be detected and isolated in real-time.
+%I 1 FCLAB (FR CNRS 3539) - La Fédération de Recherche CNRS 2 FEMTO-ST - Franche-Comté Électronique Mécanique, Thermique et Optique - Sciences et Technologies (UMR 6174) 3 LIS - Laboratoire d'Informatique et Systèmes 4 LSIS - Laboratoire des Sciences de l'Information et des Systèmes 5 DACLE-LIST - Département d'Architectures, Conception et Logiciels Embarqués-LIST 6 LITEN - Laboratoire d'Innovation pour les Technologies des Energies Nouvelles et les nanomatériaux
+%@ 0306-2619
+%R 10.1016/j.apenergy.2015.11.060
+

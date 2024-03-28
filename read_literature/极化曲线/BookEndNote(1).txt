@@ -1,0 +1,30 @@
+%0 Journal Article
+%A Majid Shateri;Farschad Torabi
+%O Department of Energy Systems, Faculty of Mechanical Engineering, K.N. Toosi University of Technology, Tehran, Iran;Battery and Energy Generators Research Lab, Faculty of Mechanical Engineering, K.N. Toosi University of Technology, Tehran, Iran
+%T Influence of liquid water accumulation on the impedance of a PEM fuel cell operating in dead end mode: Physical modeling and experimental validation
+%J Electrochimica Acta
+%D 2023
+%V Vol.443
+%N No.0
+%P 141940
+%K PEM fuel cell;Dead-end mode;Liquid water saturation;Electrochemical impedance spectroscopy;Physical modeling;Experimental validation
+%X The dead-end mode operation of a PEM fuel cell reduces the reactants consumption and the system’s complexity, but also decreases its performance due to the accumulation of liquid water, which must be purged periodically. Despite extensive use of the EIS technique in studying PEM fuel cells’ internal processes, the inherently transient nature of dead-end mode operation has challenged the application and interpretation of this technique. In this paper, a novel analytical model is proposed to physically investigate the effect of liquid water accumulation on the impedance of a PEM fuel cell in dead-end mode operation. The model is well validated against experimental polarization curves and impedance diagrams in various operating conditions by employing a two-step fitting procedure. The findings of the model indicate the constant presence of a large amount of liquid water in the fuel cell due to the dead-end operation. Additionally, the buildup of liquid water reduces the active area of the catalyst layer and the effective oxygen diffusion coefficient in GDL, increasing both the charge and mass transfer resistances. Finally, with its low computational cost, the developed analytical model can provide a suitable framework for purposes such as fault diagnosis and degradation prognosis.
+%I Department of Energy Systems, Faculty of Mechanical Engineering, K.N. Toosi University of Technology, Tehran, Iran;Battery and Energy Generators Research Lab, Faculty of Mechanical Engineering, K.N. Toosi University of Technology, Tehran, Iran
+%@ 0013-4686
+%R 10.1016/j.electacta.2023.141940
+
+%0 Journal Article
+%A Mao, Lei( l.mao@lboro.ac.uk);Jackson, Lisa;Jackson, Tom
+%O Department of Aeronautical and Automotive Engineering, Loughborough University, Leicestershire, United Kingdom; Centre for Information Management, Loughborough University, Leicestershire, United Kingdom
+%T Investigation of polymer electrolyte membrane fuel cell internal behaviour during long term operation and its use in prognostics(Article)
+%J Journal of Power Sources
+%D 2017
+%V Vol.362
+%N No.0
+%P 39-49
+%K ANFIS;Internal behaviour;Particle filtering approach;PEM fuel cell;Polarization curve
+%X This paper investigates the polymer electrolyte membrane (PEM) fuel cell internal behaviour variation at different operating condition, with characterization test data taken at predefined inspection times, and uses the determined internal behaviour evolution to predict the future PEM fuel cell performance. For this purpose, a PEM fuel cell behaviour model is used, which can be related to various fuel cell losses. By matching the model to the collected polarization curves from the PEM fuel cell system, the variation of fuel cell internal behaviour can be obtained through the determined model parameters. From the results, the source of PEM fuel cell degradation during its lifetime at different conditions can be better understood. Moreover, with determined fuel cell internal behaviour, the future fuel cell performance can be obtained by predicting the future model parameters. By comparing with prognostic results using adaptive neuro fuzzy inference system (ANFIS), the proposed prognostic analysis can provide better predictions for PEM fuel cell performance at dynamic condition, and with the understanding of variation in PEM fuel cell internal behaviour, mitigation strategies can be designed to extend the fuel cell performance.
+%I Department of Aeronautical and Automotive Engineering, Loughborough University, Leicestershire, United Kingdom; Centre for Information Management, Loughborough University, Leicestershire, United Kingdom
+%@ 0378-7753
+%R 10.1016/j.jpowsour.2017.07.018
+

@@ -1,0 +1,30 @@
+%0 Journal Article
+%A Runben Du;Xuezhe Wei;Xueyuan Wang;Siqi Chen;Hao Yuan;Haifeng Dai;Pingwen Ming
+%O School of Automotive Studies, Tongji University, No. 4800 Caoan Road, Shanghai, 201804, China;National Fuel Cell Vehicle & Powertrain System Research & Engineering Center, No. 4800, Caoan Road, Shanghai, 201804, China;Department of Control Science and Engineering, Tongji University, No. 4800 Caoan Road, Shanghai, 201804, China
+%T A fault diagnosis model for proton exchange membrane fuel cell based on impedance identification with differential evolution algorithm
+%J International Journal of Hydrogen Energy
+%D 2021
+%V Vol.46
+%N No.78
+%P 38795-38808
+%K Fuel cell;Random mutation differential evolution;Parameter identification;Fault diagnosis;Probabilistic neural network
+%X An effective online fault diagnosis system is of great significance to improve the reliability of fuel cell vehicles. In this paper, a fault diagnosis model for proton exchange membrane fuel cells is proposed. Firstly, the tests of electrochemical impedance spectroscopy under different fault types (flooding, drying, air starvation) and fault degrees (minor, moderate, severe) are carried out, and each polarization loss of the fuel cell is denoted by an equivalent circuit model (ECM). Then, the parameters of the ECM are identified by the proposed random mutation differential evolution algorithm. Furthermore, the parameters identified under different fault conditions are used to train and test a probabilistic neural network-based fault diagnosis model. The fault diagnosis model achieves diagnosis accuracies of 100% for the fault type and 96.67% for the fault degree. By setting operating conditions with different fault degrees, the fault diagnosis model proposed in this paper can realize the fault type and fault degree diagnosis, effectively avoiding the misjudgment of fault types, and is effective for improving the reliability of the fuel cell system.
+%I School of Automotive Studies, Tongji University, No. 4800 Caoan Road, Shanghai, 201804, China;National Fuel Cell Vehicle & Powertrain System Research & Engineering Center, No. 4800, Caoan Road, Shanghai, 201804, China;Department of Control Science and Engineering, Tongji University, No. 4800 Caoan Road, Shanghai, 201804, China
+%@ 0360-3199
+%R 10.1016/j.ijhydene.2021.09.126
+
+%0 Journal Article
+%A Yuan, Hao ;Dai, Haifeng ;Wei, Xuezhe ;Ming, Pingwen 
+%O School of Automotive Studies, Tongji University, Shanghai, China   Clean Energy Automotive Engineering Center, Tongji University, Shanghai, China
+%T Internal polarization process revelation of electrochemical impedance spectroscopy of proton exchange membrane fuel cell by an impedance dimension model and distribution of relaxation times.
+%J Chemical Engineering Journal
+%D 2021
+%V Vol.418
+%N No.0
+%P 129358
+%K Dimension impedance model;Distribution of relaxation times;Electrochemical impedance spectroscopy;Polarization process;Proton exchange membrane fuel cell
+%X [Display omitted] • A 2D physics-based impedance model is built to study impedance spectroscopy. • Polarization processes are identified by the distribution of relaxation times. • An independent impedance analysis by configuring system dynamics is utilized. • An inductive loop at low-frequency is observed in simulated impedance spectroscopy. • Inductive loop strongly depends on membrane water gradient and net diffusion flux. Electrochemical impedance spectroscopy (EIS) is a widespread non-invasive technology applied in proton exchange membrane (PEM) fuel cell characterization and diagnosis. In an experimental impedance plot, multi-arc nature displays or some arcs may merge. To fully reveal the internal polarization process inside the fuel cell, a two-dimension impedance model involving dominant transient behaviors such as electrochemical reaction, reactant transfer, and membrane water transfer is used for impedance spectroscopy calculation. An independent impedance analysis methodology by configuring system dynamics is utilized to demonstrate the physical nature of different frequency features. Meanwhile, a model-free approach to the distribution of relaxation times (DRT) helps probe the characteristics of different time constants in the impedance spectroscopy. A systematic dynamic configuration and model parameter independence analysis supports the assignment that polarization processes in the impedance spectroscopy from ultra-high frequency to ultra-low frequency correspond to anode chemical reaction, proton transfer inside the ionomer of the cathode, charge transfer attributed oxygen reduction reaction, oxygen transfer in the cathode, and dissolved water transfer. In detail, the results indicate that membrane water content affects the conductivity of the polymer, in turn determining proton transfer and charge transfer loss. Besides, oxygen molar concentration along the channel strongly influences whole mass transfer loss, followed by concentration in the gas diffusion layer. The inductive loop caused by membrane hydration is mainly determined by the gradient and net diffusion flux of the dissolved water across the membrane. These works provide a deep insight into impedance behaviors and help material optimization and controller design.
+%I School of Automotive Studies, Tongji University, Shanghai, China   Clean Energy Automotive Engineering Center, Tongji University, Shanghai, China
+%@ 1385-8947
+%R 10.1016/j.cej.2021.129358
+

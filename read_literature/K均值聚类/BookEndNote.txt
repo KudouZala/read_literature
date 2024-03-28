@@ -1,0 +1,30 @@
+%0 Journal Article
+%A Liu, JW (Liu, Jiawei);Li, Q (Li, Qi);Chen, WR (Chen, Weirong);Cao, TQ (Cao, Taiqiang)
+%O  School of Electrical Engineering, Southwest Jiaotong University, Chengdu 611756, Sichuan Province, China  School of Engineering and Electric Information, Xihua University, Chengdu 610039, Sichuan Province, China
+%T A discrete hidden Markov model fault diagnosis strategy based on K-means clustering dedicated to PEM fuel cell systems of tramways
+%J INTERNATIONAL JOURNAL OF HYDROGEN ENERGY
+%D 2018
+%V Vol.43
+%N No.27
+%P 12428-12441
+%K Fuel cell tramways;Fault diagnosis;Discrete hidden Markov model;K-means clustering;Scalar quantization
+%X To solve the fault classification problems of fuel cell (FC) various health states for tramways, a discrete hidden Markov model (DHMM) fault diagnosis strategy based on K-means clustering is proposed. In this paper, the K-means clustering algorithm is used to filter the sample points which aren't consistent with the actual class labels. The Lloyd algorithm is employed to quantify the sample vector sets and obtain the discrete code combination of training samples and test samples. The Baum-Welch algorithm and forward-backward algorithm are respectively presented to train and deduce the DHMM. The classification results show that the six concerned faults can be detected and isolated. The targeted fault types include low air pressure, deionized glycol high inlet temperature, deionized humidification pump low pressure, deionized glycol outlet temperature signal voltage overrange, normal state and hydrogen leakage. The fault recognition rates with the novel approach are at best 94.17%.
+%I  School of Electrical Engineering, Southwest Jiaotong University, Chengdu 611756, Sichuan Province, China  School of Engineering and Electric Information, Xihua University, Chengdu 610039, Sichuan Province, China
+%@ 0360-3199
+%R 10.1016/j.ijhydene.2018.04.163
+
+%0 Journal Article
+%A Liu, Zhongyong;Pei, Mengliu;He, Qingbo;Wu, Qiang;Jackson, Lisa;Mao, Lei
+%O Department of Precision Machinery and Precision Instrumentation, University of Science and Technology of China, Hefei, China   School of Mechanical Engineering, Shanghai Jiao Tong University, Shanghai, China   Department of Aeronautical and Automotive Engineering, Loughborough University, Loughborough, UK   Key Laboratory of Precision Scientific Instrumentation of Anhui Higher Education Institutes, University of Science and Technology of China, Hefei, China
+%T A novel method for polymer electrolyte membrane fuel cell fault diagnosis using 2D data.
+%J Journal of Power Sources
+%D 2021
+%V Vol.482
+%N No.0
+%P 228894
+%K Fault diagnosis;Fisher discriminant analysis;PEMFC;Signal-to-image conversion
+%X This paper proposes a novel approach for fault diagnosis of polymer electrolyte membrane fuel cell (PEMFC) with two-dimension (2D) image data, and investigates its effectiveness of identifying faults at different PEMFCs in terms of discrimination capacity and robustness. In the analysis, one-dimension (1D) voltage data from single cell is converted to corresponding 2D image using signal-to-image conversion technique. Various features are then extracted from the 2D image data, and optimal features are determined using Fisher discriminant analysis (FDA). Test data from PEMFC at different faulty states, including flooding and dehydration states, is collected for the analysis, and the effectiveness of optimal features in discriminating various states is investigated using K-means clustering method. Moreover, diagnostic performance with 2D image data is compared to those using 1D voltage signals, such that its effectiveness can be better highlighted. Furthermore, with test data collected from two different single cells, robustness of proposed method can be illustrated. • A novel method is proposed for PEMFC fault diagnosis with 2D image data. • Its effectiveness in identifying flooding and dehydration is studied. • Its performance is compared to those using features from 1D signal data. • Its robustness is investigated using test data from different PEMFC systems.
+%I Department of Precision Machinery and Precision Instrumentation, University of Science and Technology of China, Hefei, China   School of Mechanical Engineering, Shanghai Jiao Tong University, Shanghai, China   Department of Aeronautical and Automotive Engineering, Loughborough University, Loughborough, UK   Key Laboratory of Precision Scientific Instrumentation of Anhui Higher Education Institutes, University of Science and Technology of China, Hefei, China
+%@ 0378-7753
+%R 10.1016/j.jpowsour.2020.228894
+

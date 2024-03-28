@@ -1,0 +1,105 @@
+%0 Journal Article
+%A Gasperin, M(Gasperin, M.);Boskoski, P(Boskoski, P.);Debenjak, A(Debenjak, A.);Petrovcic, J(Petrovcic, J.)
+%O Department of Systems and Control, Joef Stefan Institute, Jamova 39, Ljubljana SI-1000, Slovenia CO NOT, Hajdrihova 19, Ljubljana, Slovenia
+%T Signal Processing and Stochastic Filtering for EIS Based PHM of Fuel Cell Systems.
+%J Fuel Cells.
+%D 2014
+%V Vol.14
+%N No.3
+%P 457-465
+%K Electrochemical Impedance Spectroscopy;Fuel Cell Diagnostics;Non-linear Kalman Filter;Prognostics and Health Management
+%X This paper presents an alternative computational method for on-line estimation and tracking of the impedance of PEM fuel cell systems. The method is developed in order to provide the information to diagnostics and health management system. Proper water management remains the main issue influencing the reliability and durability of PEM fuel cell technology. While literature reviews reveal the thorough understanding of the underlying processes and extensive experimental work, the existing implementations rely on expensive hardware or time consuming computational methods. In this scope, we will show how the characteristic values of the fuel cell impedance, required by the diagnostic system, can be computed by robust and computationally efficient algorithms, which are suitable for implementation in embedded systems. The methods under consideration include continuous-time wavelet transform (CWT) and extended Kalman filter (EKF). The CWT is a time-frequency technique, which is suitable for tracking transient signal components. The EKF is a stochastic signal processing method, which provides confidence measures for the estimates. The paper shows, that both methods provide accurate estimates for diagnostics of FCS and can perform on-line tracking of these features. The performance of the algorithms is validated on experimental data from a commercial fuel cell stack.
+%I Department of Systems and Control, Joef Stefan Institute, Jamova 39, Ljubljana SI-1000, Slovenia CO NOT, Hajdrihova 19, Ljubljana, Slovenia
+%@ 1615-6846
+%R 10.1002/fuce.201300217
+
+%0 Journal Article
+%A Rubio, M.A.( marubio@dia.uned.es);Bethune, K.;Urquia, A.;St-Pierre, J.
+%O Dept. Informática y Automática, Universidad Nacional de Educación a Distancia (UNED), 28040 Madrid, Spain Hawaii Natural Energy Institute, University of Hawaii, Manoa, Honolulu, HI 96822, USA
+%T Proton exchange membrane fuel cell failure mode early diagnosis with wavelet analysis of electrochemical noise
+%J International Journal of Hydrogen Energy
+%D 2016
+%V Vol.41
+%N No.33
+%P 14991-15001
+%K Electrochemical noise;Electrochemical impedance spectroscopy;Diagnosis;Wavelet transform;PEM fuel cell
+%X A diagnostic method for the performance degradation of low temperature proton exchange membrane fuel cells is proposed. The method is based on the analysis of the cell electrochemical noise. Experimental noise data were collected for a range of air relative humidities and stoichiometries including conditions leading to water flooding, membrane dehydration and air starvation failure modes. Data were converted with a Fourier transform (frequency window averaging of the amplitude) and a wavelet transform (coefficients standard deviation). Data were compared to impedance spectroscopy results. The method based on the wavelet transform was more sensitive. Cell states labeled by their air relative humidity and stoichiometry were correctly identified using a brute force algorithm by minimizing the Chebyshev distance between the actual and the calculated states. Independent and uniformly distributed random variations were added to experimental wavelet coefficients' standard deviations to define the calculated states.
+%I Dept. Informática y Automática, Universidad Nacional de Educación a Distancia (UNED), 28040 Madrid, Spain Hawaii Natural Energy Institute, University of Hawaii, Manoa, Honolulu, HI 96822, USA
+%@ 0360-3199
+%R 10.1016/j.ijhydene.2016.05.292
+
+%0 Journal Article
+%A M.A. Rubio;D.G. Sanchez;P. Gazdzicki;K.A. Friedrich;A. Urquia
+%O Dept. Informática y Automática, Universidad Nacional de Educación a Distancia (UNED), 28040 Madrid, Spain;Institute of Engineering Thermodynamics, Deutsches Zentrum fur Luft und Raumfahrt (DLR), 70569 Stuttgart, Germany;Institute of Building Energetics, Thermal Engineering and Energy Storage (IGTE), University of Stuttgart, 70569 Stuttgart, Germany
+%T Failure mode diagnosis in proton exchange membrane fuel cells using local electrochemical noise
+%J Journal of Power Sources
+%D 2022
+%V Vol.541
+%N No.0
+%P 231582
+%K PEM fuel cell;Local diagnosis;Electrochemical noise;Wavelet transform;Neural networks
+%X Early diagnosis of fuel cell failure modes is a very active research topic, as it improves robustness and durability of fuel cells used in commercial applications. The diagnosis method should be suited for being applied in real time, without interfering with the fuel cell operation, and it should be implemented using inexpensive hardware and light equipment. A novel method of failure diagnosis in PEM fuel cells, based on the analysis of local electrochemical noise, is proposed. Seven electrochemical noise signals are acquired in different parts of the cell, significantly increasing the information for an effective diagnosis, since previous studies have only analyzed a single signal from the electrochemical noise in the cell.</p> <p>Each electrochemical noise signal is frequency decomposed using wavelet transform to create a characteristic pattern. These patterns are used in a deep learning neural network to perform the cell state classification. The proposed method has been successfully applied to the classification of 26 different states achieved in experiments where the following factors have been varied: (1) average current density; (2) airflow; (3) drying; and (4) air pressure. The mean successful identification rate of the 26 states is above 85%. The proposed diagnosis method is well-suited for real-time diagnosis, and it can be implemented using lightweight and inexpensive hardware.
+%I Dept. Informática y Automática, Universidad Nacional de Educación a Distancia (UNED), 28040 Madrid, Spain;Institute of Engineering Thermodynamics, Deutsches Zentrum fur Luft und Raumfahrt (DLR), 70569 Stuttgart, Germany;Institute of Building Energetics, Thermal Engineering and Energy Storage (IGTE), University of Stuttgart, 70569 Stuttgart, Germany
+%@ 0378-7753
+%R 10.1016/j.jpowsour.2022.231582
+
+%0 Journal Article
+%A D. Benouioua;D. Candusso;F. Harel;L. Oukhellou
+%O  IFSTTAR / COSYS / LTN, 25 Allée des Marronniers, F-78000 Versailles Satory, France  FC LAB, UTBM Bât. F, Rue Thierry Mieg, F-90010 Belfort Cedex, France  Université de Lyon, IFSTTAR / AME / LTE, 25 Avenue François Mitterrand, Case24, Cité des Mobilités, F-69675 Bron Cedex, France  Université Paris Est, IFSTTAR / COSYS / GRETTIA, 14–20 Boulevard Newton, Cité Descartes, Champs sur Marne, F-77447 Marne la Vallée Cedex 2, France
+%T PEMFC stack voltage singularity measurement and fault classification
+%J International Journal of Hydrogen Energy
+%D 2014
+%V Vol.39
+%N No.36
+%P 21631-21637
+%K Diagnosis;PEMFC;Singularity spectrum;Pattern recognition;Classification
+%X The study summarized in this paper deals with non-intrusive fault diagnosis of Polymer Electrolyte Membrane Fuel Cell (PEMFC) stack. In the proposed approach, the diagnosis operation is based on the stack voltage singularity measurement and classification. To this aim, wavelet transform-based multifractal formalism, named WTMM (Wavelet Transform Modulus Maxima), and pattern recognition methods are combined to realize the identification of the PEMFC faults. The proposed method takes advantage of the non-linearities associated with discontinuities introduced in the dynamic response data resulting from various failure modes. Indeed, the singularities signature of poor operating conditions (faults) of the PEMFC is revealed through the computing of multifractal spectra. The obtained good classification rates demonstrate that the multifractal spectrum based on WTMM is effective to extract the incipient fault features during the PEMFC operation. The proposed method leads to a promising non-intrusive and low cost diagnostic tool to achieve on-line characterizations of dynamical FC behaviors.
+%I  IFSTTAR / COSYS / LTN, 25 Allée des Marronniers, F-78000 Versailles Satory, France  FC LAB, UTBM Bât. F, Rue Thierry Mieg, F-90010 Belfort Cedex, France  Université de Lyon, IFSTTAR / AME / LTE, 25 Avenue François Mitterrand, Case24, Cité des Mobilités, F-69675 Bron Cedex, France  Université Paris Est, IFSTTAR / COSYS / GRETTIA, 14–20 Boulevard Newton, Cité Descartes, Champs sur Marne, F-77447 Marne la Vallée Cedex 2, France
+%@ 0360-3199
+%R 10.1016/j.ijhydene.2014.09.117
+
+%0 Journal Article
+%A Damour, Cedric;Benne, Michel;Grondin-Perez, Brigitte
+%O LE2P, EA 4079, University of La Reunion, 15 Av. René Cassin, BP 7151, 97715 Saint-Denis, France FCLAB Research Federation, FR CNRS 3539, FEMTO-ST/Energy Department, UMR CNRS 6174, University of Franche-Comté, Rue Thierry Mieg, 90010 Belfort Cedex, France
+%T Polymer electrolyte membrane fuel cell fault diagnosis based on empirical mode decomposition
+%J JOURNAL OF POWER SOURCES
+%D 2015
+%V Vol.299
+%N No.0
+%P 596-603
+%K Drying;Empirical mode decomposition;Flooding;Non-invasive fault diagnosis;PEM fuel cell
+%X Diagnosis tool for water management is relevant to improve the reliability and lifetime of polymer electrolyte membrane fuel cells (PEMFCs). This paper presents a novel signal-based diagnosis approach, based on Empirical Mode Decomposition (EMD), dedicated to PEMFCs. EMD is an empirical, intuitive, direct and adaptive signal processing method, without pre-determined basis functions. The proposed diagnosis approach relies on the decomposition of FC output voltage to detect and isolate flooding and drying faults. The low computational cost of EMD, the reduced number of required measurements, and the high diagnosis accuracy of flooding and drying faults diagnosis make this approach a promising online diagnosis tool for PEMFC degraded modes management.
+%I LE2P, EA 4079, University of La Reunion, 15 Av. René Cassin, BP 7151, 97715 Saint-Denis, France FCLAB Research Federation, FR CNRS 3539, FEMTO-ST/Energy Department, UMR CNRS 6174, University of Franche-Comté, Rue Thierry Mieg, 90010 Belfort Cedex, France
+%@ 0378-7753
+%R 10.1016/j.jpowsour.2015.09.041
+
+%0 Journal Article
+%A Kim, Jonghoon;Tak, Yongsug
+%O  Energy Storage and Conversion Laboratory, School of Electrical Engineering, Chosun University, Gwangju 501-759, Republic of Korea  Materials and Electro-Chemistry Laboratory, Department of Chemical Engineering, Inha University, Incheon 402-751, Republic of Korea
+%T Implementation of discrete wavelet transform-based discrimination and state-of-health diagnosis for a polymer electrolyte membrane fuel cell.
+%J International Journal of Hydrogen Energy
+%D 2014
+%V Vol.39
+%N No.20
+%P 10664-10682
+%K Polymer electrolyte membrane fuel cell (PEMFC);Discrete wavelet transform (DWT);State-of-health (SOH);Multi-resolution analysis (MRA)
+%X This research investigates a new approach based on the discrete wavelet transform (DWT) that suitable for analyzing and evaluating output terminal voltage signal (OTVS) for discrimination analysis of a polymer electrolyte membrane fuel cell (PEMFC). Due to its ability for extracting information from the non-stationary and transient phenomena simultaneously in both time and frequency domain, the OTVS can be applied as source data in the DWT-based approach. By using the wavelet decomposition including the multi-resolution analysis (MRA) using the Daubechies wavelet (dB) as mother wavelet, the information on the electrochemical characteristics of a PEMFC can be extracted from the OTVS over a wide frequency range. Thus, the cells that have similar electrochemical characteristics can be eventually discriminated. In particular, this present research develops these investigations one step further by showing low-frequency components (approximation A <sub> n </sub>) and high-frequency components (detail D <sub> n </sub>) extracted from variable single cells with different electrochemical characteristics. Experimental results show that DWT-based approach is clearly appropriate for the reliable SOH diagnosis for a PEMFC.
+%I  Energy Storage and Conversion Laboratory, School of Electrical Engineering, Chosun University, Gwangju 501-759, Republic of Korea  Materials and Electro-Chemistry Laboratory, Department of Chemical Engineering, Inha University, Incheon 402-751, Republic of Korea
+%@ 0360-3199
+%R 10.1016/j.ijhydene.2014.04.205
+
+%0 Journal Article
+%A Mona Ibrahim;Ursula Antoni;Nadia Yousfi Steiner;Samir Jemei;Celestin Kokonendji;Bastian Ludwig;Philippe Moçotéguy;Daniel Hissel
+%O   [ 1 ] Lab Math Besancon, F-25030 Besancon, France        [ 2 ] EIFER, D-76131 Karlsruhe, Germany [ 3 ] Univ Franche Comte, FEMTO ST, CNRS, UMR 6174,FCLAB,FR 3539, F-90010 Belfort, France        Centre National de la Recherche Scientifique (CNRS)     Universite Bourgogne Franche-Comte (ComUE)     Universite de Franche-Comte
+%T Signal-based diagnostics by wavelet transform for proton exchange membrane fuel cell
+%J Energy Procedia
+%D 2015
+%V Vol.74
+%N No.0
+%P 1508-1516
+%K STACK
+%X In order to exploit all the benefits from the Proton Exchange Membrane Fuel Cell (PEMFC) technology and to gain a deeper understanding of operating faults during fuel cell operations, Investigation of the origins of faults is necessary. In this work, a diagnosis approach consisting of a method using signal-based pattern recognition is proposed. It is aimed at a minimization of efforts and costs in acquisition and evaluation of data for diagnostic purposes. All information needed to locate the faults is drawn from the recorded fuel cell output voltage, since certain phenomena leave characteristic patterns in the voltage signal. A signal analysis tool, namely the Wavelet Transform (WT), is employed to identify different patterns or faults signatures. The approach has been applied to voltage data recorded on a PEMFC suffering from dysfunctions related to inappropriate humidity levels inside the cell (two different faults are simulated: flooding and drying out). Characteristic features in the output voltage signals were outlined, so a distinction of several states of health was accomplished. The results show the efficiency of the proposed approach, and the WT can be considered as a reliable method to localize the dysfunctions. A comparison between the Discrete Wavelet Transform (DWT) and the Continuous Wavelet Transform (DWT) has shown that the DWT is more efficient in detecting and localizing faults in fuel cells.
+%I   [ 1 ] Lab Math Besancon, F-25030 Besancon, France        [ 2 ] EIFER, D-76131 Karlsruhe, Germany [ 3 ] Univ Franche Comte, FEMTO ST, CNRS, UMR 6174,FCLAB,FR 3539, F-90010 Belfort, France        Centre National de la Recherche Scientifique (CNRS)     Universite Bourgogne Franche-Comte (ComUE)     Universite de Franche-Comte
+%@ 1876-6102
+%R 10.1016/j.egypro.2015.07.708
+

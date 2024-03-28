@@ -1,0 +1,57 @@
+%0 Journal Article
+%A Xin Gu;Zhongjun Hou;Jun Cai
+%O Shanghai Hydrogen Propulsion Technology Co., Ltd., Unit 10, BLDG 17, Innovation Park, Lane 56, Antuo Rd. Jiading, Shanghai PR China Corresponding author.;Shanghai Hydrogen Propulsion Technology Co., Ltd., Unit 10, BLDG 17, Innovation Park, Lane 56, Antuo Rd. Jiading, Shanghai PR China Shanghai Hydrogen Propulsion Technology Co., Ltd., Unit 10, BLDG 17, Innovation Park, Lane 56, Antuo Rd. Jiading, Shanghai PR China
+%T Data-based flooding fault diagnosis of proton exchange membrane fuel cell systems using LSTM networks
+%J Energy and AI
+%D 2021
+%V Vol.4
+%P 100056
+%K Proton exchange membrane fuel cell;Flooding diagnosis;Data-driven diagnosis;Long Short-Term Memory network
+%X Flooding fault diagnosis is critical to the stable and efficient operation of fuel cells, while the on-board embedded controller has limited computing power and sensors, making it difficult to incorporate the complex gas-liquid two-phase flow models. Then in fuel cell system for cars, the neural network modeling is usually regarded as an appropriate tool for the on-line diagnosis of water status. Traditional neural network classifiers are not good at processing time series data, so in this paper, Long Short-Term Memory (LSTM) network model is developed and applied to the flooding fault diagnosis based on the embedded platform. Moreover, the fuel cell auxiliary system statuses are adopted as the inputs of the diagnosis network, which avoids installing a large number of sensors in the fuel cell system, and contributes to reduce the total system cost. The bench test on the 92 kW vehicle fuel cell system proved that this model can effectively diagnose/pre-diagnose the fuel cell flooding, and thus help optimize the water management under vehicle conditions.
+%I Shanghai Hydrogen Propulsion Technology Co., Ltd., Unit 10, BLDG 17, Innovation Park, Lane 56, Antuo Rd. Jiading, Shanghai PR China Corresponding author.;Shanghai Hydrogen Propulsion Technology Co., Ltd., Unit 10, BLDG 17, Innovation Park, Lane 56, Antuo Rd. Jiading, Shanghai PR China Shanghai Hydrogen Propulsion Technology Co., Ltd., Unit 10, BLDG 17, Innovation Park, Lane 56, Antuo Rd. Jiading, Shanghai PR China
+%@ 2666-5468
+%R 10.1016/j.egyai.2021.100056
+
+%0 Journal Article
+%A Zuo, Bin;Zhang, Zehui;Cheng, Junsheng;Huo, Weiwei;Zhong, Zhixian;Wang, Mingrui
+%O College of Mechanical and Vehicle Engineering, Hunan University, Changsha, China   State Key Laboratory of Advanced Design and Manufacturing for Vehicle Body, Hunan University, Changsha, China   College of Software, Nankai University, Tianjin, China   School of Mechanical and Electrical, Beijing Information Science and Technology University, Beijing, China   College of Mechanical and Control Engineering, Guilin University of Technology, Guilin, China   Dongfeng Motor Corporation Technology Center, Wuhan, China
+%T Data-driven flooding fault diagnosis method for proton-exchange membrane fuel cells using deep learning technologies.
+%J Energy Conversion & Management
+%D 2022
+%V Vol.251
+%P 115004
+%K Batch normalization;Convolutional neural network;Fault diagnosis;Flooding fault;Fuel cell
+%X [Display omitted] • The CNN-based model with batch normalization is proposed to automatically extract fault features. • Multi-source monitoring signals are fused to diagnose faults. • The load-varying scenario of the FC is considered in this study. Effective and accurate diagnostic methods are necessary to ensure the stable and efficient operation of proton exchange membrane fuel cells (PEMFC). In practice, the voltage drop is commonly used as the detection indicator of the flooding fault. However, the output power changes also affect the voltage of the PEMFC. To better diagnose the flooding fault under load-varying conditions, a data-driven method for PEMFC using deep learning technologies is proposed, which can automatically extract fault features for the raw data to diagnose the flooding fault. First, the indicators for the fault diagnosis model are selected to meet the actual situation according to the water transport mechanism and auxiliary systems of the general fuel cell stack. And the collected data are transformed into a 2-D graph to visually represent the characteristics of the time-series data. Then, the convolutional neural network is adopted to develop the fault diagnosis model. In addition, the batch normalization method is used to alleviate feature distribution differences and enhance the model generalization. Finally, the trained model is applied to detect the flooding fault. A real PEMFC experiment dataset is adopted to verify the diagnostic performance of the method. Experiment results show that the proposed model can effectively identify the flooding fault of the fuel cell accurately under load-varying conditions, and achieves over 99% accuracy.
+%I College of Mechanical and Vehicle Engineering, Hunan University, Changsha, China   State Key Laboratory of Advanced Design and Manufacturing for Vehicle Body, Hunan University, Changsha, China   College of Software, Nankai University, Tianjin, China   School of Mechanical and Electrical, Beijing Information Science and Technology University, Beijing, China   College of Mechanical and Control Engineering, Guilin University of Technology, Guilin, China   Dongfeng Motor Corporation Technology Center, Wuhan, China
+%@ 0196-8904
+%R 10.1016/j.enconman.2021.115004
+
+%0 Journal Article
+%A Su Zhou;Yanda Lu;Datong Bao;Keyong Wang;Jing Shan;Zhongjun Hou
+%O School of Automotive Studies, Tongji University, Shanghai 201804, China;Shanghai Hydrogen Propulsion Technology Co., Ltd., Shanghai 201804, China
+%T Real-time data-driven fault diagnosis of proton exchange membrane fuel cell system based on binary encoding convolutional neural network
+%J International Journal of Hydrogen Energy
+%D 2022
+%V Vol.47
+%N No.20
+%P 10976-10989
+%K PEMFC system;Data-driven;Deep learning;Simulation datasets;Embedded deployment
+%X The performance of proton exchange Membrane fuel cell (PEMFC) fault diagnosis system plays an important role in normal operation of PEMFC. Therefore, a new fault diagnosis algorithm based on binary matrix encoding neural network called BinE-CNN is proposed. In BinE-CNN, high-dimensional features are extracted through binary encoding, and the feature maps are transferred to a convolutional neural network (CNN) to realize seven-category fault classification. For development of BinE-CNN, a PEMFC model is modeled to generate simulative datasets. Simulative test precision and Frames per second (FPS) of BinE-CNN have reached respectively 0.973 and 999.8 (better than support vector machines (SVM), long short-term memory neural network (LSTM), etc.). In experimental verification section, fault datasets are collected during bench test. After that, BinE-CNN is deployed on vehicle control unit (VCU) to verify its engineering value (real-time and precision). The result meet both requirements, with time cost of 96.15 ms and precision of 0.931.
+%I School of Automotive Studies, Tongji University, Shanghai 201804, China;Shanghai Hydrogen Propulsion Technology Co., Ltd., Shanghai 201804, China
+%@ 0360-3199
+%R 10.1016/j.ijhydene.2022.01.145
+
+%0 Journal Article
+%A Tong Lin;Leiming Hu;Willetta Wisely;Xin Gu;Jun Cai;Shawn Litster;Levent Burak Kara
+%O Carnegie Mellon University, Pittsburgh, PA 15213, USA Shanghai Hydrogen Propulsion Technology Co.Ltd, Innovation Park, Lane 56, Antuo Rd, Jiading, Shanghai 201800, P.R. China
+%T Prediction of high frequency resistance in polymer electrolyte membrane fuel cells using long short term memory based model
+%J Energy and AI
+%D 2021
+%V Vol.3
+%P 100045
+%K PEM fuel cell;High frequency resistance;Dynamic system prediction;Machine learning;LSTM
+%X High-frequency resistance (HFR) is a critical quantity strongly related to a fuel cell system's performance. It is beneficial to estimate the fuel cell system's HFR from the measurable operating conditions without resorting to costly HFR measurement devices. In this study, we propose a data-driven approach for a real-time prediction of HFR. Specifically, we use a long short-term memory (LSTM) based machine learning model that takes into account both the current and past states of the fuel cell, as characterized through a set of sensors. These sensor signals form the input to the LSTM. The data is experimentally collected from a vehicle lab that operates a 100 kW automotive fuel cell stack running on an automotive-scale test station. Our current results indicate that our prediction model achieves high accuracy HFR predictions and outperforms other frequently used regression models. We also study the effect of the extracted features generated by our LSTM model. Our study finds that only very few dimensions of the extracted feature are influential in HFR prediction. The study highlights the potential to monitor HFR condition accurately and timely on a car.
+%I Carnegie Mellon University, Pittsburgh, PA 15213, USA Shanghai Hydrogen Propulsion Technology Co.Ltd, Innovation Park, Lane 56, Antuo Rd, Jiading, Shanghai 201800, P.R. China
+%@ 2666-5468
+%R 10.1016/j.egyai.2020.100045
+

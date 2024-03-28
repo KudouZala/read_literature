@@ -1,0 +1,30 @@
+%0 Journal Article
+%A 周苏，胡哲，文泽军
+%O 同济大学汽车学院；同济大学中德学院
+%T 基于K均值和支持向量机的燃料电池在线自适应故障诊断
+%J 同济大学学报(自然科学版)
+%D 2019
+%V 第47卷
+%N 第2期
+%P 255-260
+%K 车用燃料电池；故障诊断；在线自适应；支持向量机；K均值聚类
+%X 基于K均值(K-means)和支持向量机(support vector machine, SVM)算法,提出了一种车用燃料电池系统(fuel cell system, FCS)在线自适应故障诊断方法.该方法通过不断获取系统最新单体电压,采用K-means算法改进传统的静态SVM分类器模型,对实时获取的信息进行聚类,实现分类器的在线自适应调节.采用已发表文献中的实验数据进行了相关的验证分析,结果表明,提出的方法能有效地在线调节故障分类器,实现FCS系统特性发生改变后的故障检测.
+%I 同济大学汽车学院；同济大学中德学院
+%@ 0253-374X
+%R 10.11908/j.issn.0253-374x.2019.02.014
+
+%0 Journal Article
+%A Li, Zhongliang;Outbib, Rachid;Giurgea, Stefan;Hissel, Daniel;Giraud, Alain;Couderc, Pascal
+%O Aix Marseille Univ, Universit&eacute; de Toulon, CNRS, LIS, Marseille, France   FCLAB (Fuel Cell Lab) Research Federation, FR CNRS 3539, rue Thierry Mieg, 90010, Belfort Cedex France   FEMTO-ST (UMR CNRS 6174), ENERGY Department, UFC/UTBM/ENSMM, France   CEA/LIST, 91191 Gif-sur-Yvette Cedex, France   3D PLUS, 78532 BUC, France
+%T Fault diagnosis for fuel cell systems: A data-driven approach using high-precise voltage sensors.
+%J Renewable Energy: An International Journal
+%D 2019
+%V Vol.135
+%N No.0
+%P 1435-1444
+%K Application specific integrates circuit;Classification;Data-driven;Fault diagnosis;Online implementation;PEMFC system
+%X Reliability and durability are two key hurdles that prevent the widespread use of fuel cell technology. Fault diagnosis, especially online fault diagnosis, has been considered as one of the crucial techniques to break through these two bottlenecks. Although a large number of works dedicated fuel cell diagnosis have been published, the criteria of diagnosis, especially online diagnosis have not yet been clarified. In this study, we firstly propose the criteria used for evaluating a diagnosis strategy. Based on that, we experimentally demonstrate an online fault diagnosis strategy designed for Proton Exchange Membrane Fuel Cell (PEMFC) systems. The diagnosis approach is designed based on advanced feature extraction and pattern classification techniques, and realized by processing individual fuel cell voltage signals. We also develop a highly integrated electronic chip with multiplexing and high-speed computing capabilities to fulfill the precise measurement of multi-channel signals. Furthermore, we accomplish the diagnosis algorithm in real-time. The excellent performance in both diagnosis accuracy and speediness over multiple fuel cell systems is verified. The proposed strategy is promising to be utilized in various fuel cell systems and promote the commercialization of fuel cell technology. Highlights • Criteria are firstly proposed for evaluating online diagnosis strategies of fuel cell systems. • A completed data-driven diagnosis development process for Polymer Electrolyte Membrane Fuel Cell (PEMFC) systems is proposed. • Application specific integrates circuit is designed to realize the proposed diagnosis approach. • Diagnosis strategy is validated through experiments in 7 failure modes and over 3 different PEMFC stacks.
+%I Aix Marseille Univ, Universit&eacute; de Toulon, CNRS, LIS, Marseille, France   FCLAB (Fuel Cell Lab) Research Federation, FR CNRS 3539, rue Thierry Mieg, 90010, Belfort Cedex France   FEMTO-ST (UMR CNRS 6174), ENERGY Department, UFC/UTBM/ENSMM, France   CEA/LIST, 91191 Gif-sur-Yvette Cedex, France   3D PLUS, 78532 BUC, France
+%@ 0960-1481
+%R 10.1016/j.renene.2018.09.077
+

@@ -1,0 +1,15 @@
+%0 Journal Article
+%A Mukhtar Sani;Maxime Piffard;Vincent Heiries
+%O Université Grenoble Alpes, CEA, LITEN, F-38000 Grenoble, France;Université Grenoble Alpes, CEA, LETI, F-38000 Grenoble, France
+%T Fault Detection for PEM Fuel Cells via Analytical Redundancy: A Critical Review and Prospects
+%J Energies
+%D 2023
+%V Vol.16
+%N No.5446
+%P 5446
+%K PEMFC;fault detection;analytical redundancy;prognosis and health management;durability and reliability;fault diagnosis tool
+%X Decarbonization of the transport sector could be achieved through fuel cell technology. The candidature of this technology is motivated by its high current density and lack of emissions. However, its widespread deployment is restrained by durability and reliability constraints. During normal operation, the fuel cell system supplies stable power to the load. Contrarily, when it is operated under faulty conditions, the system’s output power deteriorates, leading to low durability. It is therefore of paramount importance to ensure that the system is operated in a non-faulty condition. In this paper, we provide a critical review of the analytical-redundancy-based fault diagnosis methods for proton exchange membrane fuel cells (PEMFCs). An in-depth analysis of the various methods has been presented in terms of accuracy, complexity, implementability, and robustness to aging and dynamic operating conditions.
+%I Université Grenoble Alpes, CEA, LITEN, F-38000 Grenoble, France;Université Grenoble Alpes, CEA, LETI, F-38000 Grenoble, France
+%@ 1996-1073
+%R 10.3390/en16145446
+

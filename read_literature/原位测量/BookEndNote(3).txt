@@ -1,0 +1,60 @@
+%0 Journal Article
+%A N. A. David;P. M. Wild;J. Jensen;T. Navessin;N. Djilali
+%O Department of Mechanical Engineering and Institute for Integrated Energy Systems, University of Victoria, British Columbia, Canada V8W 3P6 ;  National Research Council Institute for Fuel Cell Innovation, Vancouver, British Columbia, Canada V6T 1W5
+%T Simultaneous In Situ Measurement of Temperature and Relative Humidity in a PEMFC Using Optical Fiber Sensors
+%J Journal of The Electrochemical Society
+%D 2010
+%V Vol.157
+%N No.8
+%P B1173-B1179
+%K Bragg gratings;fibre optic sensors;humidity;polymer films;proton exchange membrane fuel cells
+%X The development, implementation, and demonstration of in-fiber Bragg grating (FBG) sensors for a simultaneous measurement of temperature and relative humidity (RH) in an operating polymer electrolyte membrane fuel cell (PEMFC) are presented. Etched fiber, polymer-coated FBG sensors with fast response and high sensitivity are installed in situ in a minimally invasive manner in the cathode unipolar plate of a single PEMFC with serpentine flow fields. The performance of the fuel cell under transient operating conditions is monitored. Step increases in current induce significantly larger increases in RH near the outlet than near the inlet of the cell, and associated transients within the fuel cell are found on a time scale approaching the sensor response time (~1 Hz). The improved response of the technique, together with the significantly improved temperature and RH resolution, provides useful information on the dynamics of heat and water management. The technique is well suited for distributed measurements, and its relatively low cost and nonintrusive character make it a good candidate for practical multipoint monitoring of complete stacks. ?2010 The Electrochemical Society
+%I Department of Mechanical Engineering and Institute for Integrated Energy Systems, University of Victoria, British Columbia, Canada V8W 3P6 ;  National Research Council Institute for Fuel Cell Innovation, Vancouver, British Columbia, Canada V6T 1W5
+%@ 0013-4651
+%R 10.1149/1.3436652
+
+%0 Journal Article
+%A 张城，陈涛，刘士华，刘康杰
+%O 武汉理工大学机电工程学院
+%T 用于PEMFC的FBG湿度传感器的制作及性能研究
+%J 光电子·激光
+%D 2020
+%V 第31卷
+%N 第10期
+%P 1025-1035
+%K 光纤Bragg光栅(FBG)；质子交换膜燃料电池(PEMFC)；湿度传感器；灵敏度；响应时间
+%X 研究了以聚酰亚胺为湿敏材料的光纤Bragg光栅(FBG)湿度传感器并用其对质子交换膜燃料电池(PEMFC)停机过程中内部湿度进行了实时监测。传感器利用聚酰亚胺的湿膨胀效应,实现了对24.7%-98%RH范围内相对湿度的监测。采用腐蚀光纤包层的方法减小光纤包层直径,实验结果表明,该方法能在不影响FBG相对湿度传感器灵敏度的情况下,提高对外界环境相对湿度变化的响应速度。所研制的FBG相对湿度传感器灵敏度能达到3.8 pm/RH,线性度达到99.85%,最大回程误差不超过9 pm,当环境相对湿度从50%突变到85%时,经过腐蚀处理后的FBG相对湿度响应时间仅为15.4 s。将该FBG湿度传感器布置于PEMFC内部进行停机过程中湿度的实时监测,实验结果表明,所制作的FBG湿度传感器能够准确地反映PEMFC停机吹扫过程中内部湿度的变化。
+%I 武汉理工大学机电工程学院
+%@ 1005-0086
+%R 10.16136/j.joel.2020.10.0184
+
+%0 Journal Article
+%A Peng, Linfa (AUTHOR)( penglinfa@sjtu.edu.cn);Shao, Heng (AUTHOR)( shaoheng@sjtu.edu.cn);Qiu, Diankai (AUTHOR);Yi, Peiyun (AUTHOR);Lai, Xinmin (AUTHOR)
+%O State Key Laboratory of Mechanical System and Vibration, Shanghai Jiao Tong University, Shanghai, 200240, PR China Shanghai Key Laboratory of Digital Manufacture for Thin-walled Structures, Shanghai Jiao Tong University, Shanghai, 200240, PR China
+%T Investigation of the non-uniform distribution of current density in commercial-size proton exchange membrane fuel cells.
+%J Journal of Power Sources
+%D 2020
+%V Vol.453
+%N No.0
+%P 227836
+%K Assembly condition;Commercial-size fuel cell;Current density distribution;Printed circuit board
+%X It is necessary to obtain the current density distribution in order to understand local reactions inside the proton exchange membrane (PEM) fuel cells. Enlarging the active area to commercial-size makes it difficult to maintain uniform assembly pressure, gas supply and heat dissipation inside the fuel cell stack. Existing studies for laboratory-level fuel cells cannot effectively guide the development of large-area fuel cells. In this study, current density distribution inside a 250 cm2 and 3 kW level fuel cell stack is measured and analyzed using the printed circuit board (PCB) technology. A four-layer PCB sensor plate covering 144 current collecting segments and shunt resistors for current measurement is well-designed. The in-house developed measurement system is proved with good function, and the accuracy of current density measurement is within 2%. Results show that the flow field configuration and stack assembly condition greatly affects the uniformity of local current densities. Higher current passes through the area with larger contact pressure, and the current density is low in the poor contact area. The local current density has larger deviations for higher output current, but the normalized current is more uniform. Effects of operating conditions including stoichiometric ratio and flow direction are investigated. • A large-area segmented PCB current sensor plate is designed and tested. • The current distribution of a commercial-size fuel cell stack is investigated. • Nonuniformity contact pressure has a great impact on current density distribution.
+%I State Key Laboratory of Mechanical System and Vibration, Shanghai Jiao Tong University, Shanghai, 200240, PR China Shanghai Key Laboratory of Digital Manufacture for Thin-walled Structures, Shanghai Jiao Tong University, Shanghai, 200240, PR China
+%@ 0378-7753
+%R 10.1016/j.jpowsour.2020.227836
+
+%0 Journal Article
+%A Yike Zhu;Rui Lin;Lihang Han;Zhenghua Jiang;Di Zhong
+%O School of Automotive Studies, Tongji University, Shanghai, 201804, Shanghai, China
+%T Investigation on cold start of polymer electrolyte membrane fuel cells stacks with diverse cathode flow fields
+%J International Journal of Hydrogen Energy
+%D 2021
+%V Vol.46
+%N No.7
+%P 5580-5592
+%K Stack;Flow fields;Cold start;Internal behavior;Segmented cell technology
+%X The shape of gas flow field determines the distribution of reactive gas and the drainage performance so it has a significant impact on cold start performance. This work designs three novel cathode flow fields of stacks through variable cross-section design to improve drainage, which are the single variable section serpentine flow field, the variable section interdigitate flow field and the variable section parallel flow field. The cold start characteristics and internal behavior of diverse novel stack flow fields are investigated by segmented cell technology. The results show that stack with the single variable section serpentine flow field realizes the fastest cold start when the temperature is below −5 °C. However, the variable section interdigitate flow field displays the shortest cold start time when the temperature is above −5 °C. The evolution of the current density distribution of the single cell in different position of the same stack is inconsistent during cold start. The key regions with strong electrochemical performance of different stack flow fields are found. The performance degradation of the stack with the single variable section serpentine flow field is the lowest when start fails. This work can supply experimental support for the selection of flow fields for cold start.
+%I School of Automotive Studies, Tongji University, Shanghai, 201804, Shanghai, China
+%@ 0360-3199
+%R 10.1016/j.ijhydene.2020.11.021
+

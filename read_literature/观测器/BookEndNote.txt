@@ -1,0 +1,45 @@
+%0 Journal Article
+%A Lira, S. de;Puig, Vicenç;Quevedo, Joseba;Husar, Attila
+%O Sistemas Avanzados de Control (SAC), Universitat Politécnica de Catalunya (UPC), Rambla Sant Nebridi 10, 08222 Terrassa, Spain;Instituto de Robótica i Informática Industrial (IRI), (CSIC-UPC) Parc Tecnológic de Barcelona, Edifici U, Carrer Llorens i Artigas, 4-6, 08028 Barcelona, Spain
+%T LPV observer design for PEM fuel cell system: Application to fault detection
+%J Journal of Power Sources
+%D 2011
+%V Vol.196
+%N No.9
+%P 4298-4305
+%K Modelling;LPV;Observer;Fault detection;PEM fuel cell
+%X In this paper, the modelling of an energy generation system based on polymer electrolyte membrane fuel cell (PEMFC) system through a parameter varying approach (LPV model), that takes in to account model parameter variation with the operating point, is presented. This model has been obtained through a Jacobian linearization of the PEMFC non-linear dynamic model that was previously calibrated using real data from lab. In order to illustrate the use of the LPV model obtained its application to model-based fault detection is used. For this purposes a set of common fault scenarios, which could appear during a normal PEMFC operation, is used as case study.
+%I Sistemas Avanzados de Control (SAC), Universitat Politécnica de Catalunya (UPC), Rambla Sant Nebridi 10, 08222 Terrassa, Spain;Instituto de Robótica i Informática Industrial (IRI), (CSIC-UPC) Parc Tecnológic de Barcelona, Edifici U, Carrer Llorens i Artigas, 4-6, 08028 Barcelona, Spain
+%@ 0378-7753
+%R 10.1016/j.jpowsour.2010.11.084
+
+%0 Journal Article
+%A Laghrouche, S (Laghrouche, Salah);Liu, JX (Liu, Jianxing);Ahmed, FS (Ahmed, Fayez Shakil);Harmouche, M (Harmouche, Mohamed);Wack, M (Wack, Maxime)
+%O Laboratoire OPERA, Technical University of Belfort-Montbeliard, Belfort, France Department of Control Science and Engineering, Harbin Institute of Technology, Harbin, China Laboratory of Control and Process Engineering (LAGEP), University Claude Bernard Lyon 1, Villeurbanne, France , Actility, Paris, France
+%T Adaptive Second-Order Sliding Mode Observer-Based Fault Reconstruction for PEM Fuel Cell Air-Feed System.
+%J IEEE Transactions on Control Systems Technology
+%D 2015
+%V Vol.23
+%N No.3
+%P 1098-1109
+%K Adaptive systems;fault diagnosis;fuel cells;Hydrogen;Observers;sliding mode control;Uncertainty;Vectors
+%X This paper presents an observer-based fault reconstruction method for PEM fuel cells. This method extends the results of a class of nonlinear uncertain systems with Lipschitz nonlinearities. An adaptive-gain second-order sliding mode (SOSM) observer is developed for observing the system states, where the adaptive law estimates the uncertain parameters. The inherent equivalent output error injection feature of SOSM algorithm is then used to reconstruct the fault signal. The performance of the proposed observer is validated through a hardware-in-loop emulator. The experimental results illustrate the feasibility and effectiveness of the proposed approach for application to fuel cell air-feed systems.
+%I Laboratoire OPERA, Technical University of Belfort-Montbeliard, Belfort, France Department of Control Science and Engineering, Harbin Institute of Technology, Harbin, China Laboratory of Control and Process Engineering (LAGEP), University Claude Bernard Lyon 1, Villeurbanne, France , Actility, Paris, France
+%@ 1063-6536
+%R 10.1109/TCST.2014.2361869
+
+%0 Journal Article
+%A Rotondo, Damiano( damiano.rotondo@yahoo.it);Fernandez-Canti, Rosa M.;Tornil-Sin, Sebastian;Blesa, Joaquim;Puig, Vicenç
+%O Department of Automatic Control (ESAII), Technical University of Catalonia (UPC), Rambla de Sant Nebridi 10, 08222 Terrassa, Spain Institut de Robòtica i Informàtica Industrial, CSIC-UPC, Carrer de Llorens i Artigas, 4-6, 08028 Barcelona, Spain
+%T Robust fault diagnosis of proton exchange membrane fuel cells using a Takagi-Sugeno interval observer approach
+%J International Journal of Hydrogen Energy
+%D 2016
+%V Vol.41
+%N No.4
+%P 2875-2886
+%K PEM fuel cells;Model-based fault diagnosis;Takagi-Sugeno fuzzy systems;Analytical redundancy relations;Interval observers
+%X In this paper, the problem of robust fault diagnosis of proton exchange membrane (PEM) fuel cells is addressed by introducing the Takagi-Sugeno (TS) interval observers that consider uncertainty in a bounded context, adapting TS observers to the so-called interval approach. Design conditions for the TS interval observer based on regional pole placement are also introduced to guarantee the fault detection and isolation (FDI) performance. The fault detection test is based on checking the consistency between the measurements and the output estimations provided by the TS observers. In presence of bounded uncertainty, this check relies on determining if all the measurements lie inside their corresponding estimated interval bounds. When a fault is detected, the measurements that are inconsistent with their corresponding estimations are annotated and a fault isolation procedure is triggered. By using the theoretical fault signature matrix (FSM), which summarizes the effects of the different faults on the available residuals, the fault is isolated by means of a logic reasoning that takes into account the bounded uncertainty, and if the number of candidate faults is more than one, a correlation analysis is used to obtain the most likely fault candidate. Finally, the proposed approach is tested using a PEM fuel cell case study proposed in the literature.
+%I Department of Automatic Control (ESAII), Technical University of Catalonia (UPC), Rambla de Sant Nebridi 10, 08222 Terrassa, Spain Institut de Robòtica i Informàtica Industrial, CSIC-UPC, Carrer de Llorens i Artigas, 4-6, 08028 Barcelona, Spain
+%@ 0360-3199
+%R 10.1016/j.ijhydene.2015.12.071
+

@@ -1,0 +1,44 @@
+%0 Journal Article
+%A Li, ZL (Li, Zhongliang);Outbib, R (Outbib, Rachid);Giurgea, S (Giurgea, Stefan);Hissel, D (Hissel, Daniel);Li, YD (Li, Yongdong)
+%O FCLAB (Fuel Cell Lab) Research Federation, FR CNRS 3539, rue Thierry Mieg, 90010 Belfort Cedex, France   Laboratoire des Sciences de l’Information et des Systemes (LSIS), University of Aix-Marseille, France   FEMTO-ST (UMR CNRS 6174), ENERGY Department, University of Franche-Comte, France   Department of Electrical Engineering, Tsinghua University, Beijing 100084, China
+%T Fault detection and isolation for Polymer Electrolyte Membrane Fuel Cell systems by analyzing cell voltage generated space
+%J Applied energy
+%D 2015
+%V Vol.148
+%N No. C
+%P 260-272
+%K Fault diagnosis;Proton exchange membrane fuel cell system;Individual cell voltages;Multi-fault isolation;Feature extraction;Classification
+%X This paper proposes a data-driven diagnostic approach for Polymer Electrolyte Membrane Fuel Cell (PEMFC) systems. Fault detection and isolation (FDI) is realized by analyzing individual cell voltages. A feature extraction method Fisher Discriminant Analysis (FDA) and a multi-class classification method Directed Acyclic Graph Support Vector Machine (DAGSVM) are utilized successively to extract the useful features from raw data and classify the extracted features into various classes related to health states. Experimental data of two different stacks are used to validate the proposed approach. The results show that five concerned faults can be detected and isolated with a high accuracy. Moreover, the light computational cost of the approach enhances the possibility of its online implementation.
+%I FCLAB (Fuel Cell Lab) Research Federation, FR CNRS 3539, rue Thierry Mieg, 90010 Belfort Cedex, France   Laboratoire des Sciences de l’Information et des Systemes (LSIS), University of Aix-Marseille, France   FEMTO-ST (UMR CNRS 6174), ENERGY Department, University of Franche-Comte, France   Department of Electrical Engineering, Tsinghua University, Beijing 100084, China
+%@ 0306-2619
+%R 10.1016/j.apenergy.2015.03.076
+
+%0 Journal Article
+%A Zheng, ZX (Zheng, Zhixue);Pera, MC (Pera, Marie-Cecile);Hissel, D (Hissel, Daniel);Becherif, M (Becherif, Mohamed);Agbli, KS (Agbli, Krehi-Serge);Li, YD (Li, Yongdong)
+%O ; FEMTO ST, Dept Energy, FCLAB Res Federat, FR CNRS 3539,UMR CNRS 6174, Besancon, France ; Univ Franche Comte, F-90010 Belfort, France ; Univ Technol Belfort Montbeliard, F-90010 Belfort, France ; Tsinghua Univ, Dept Elect Engn, Beijing 100084, Peoples R China
+%T A double-fuzzy diagnostic methodology dedicated to online fault diagnosis of proton exchange membrane fuel cell stacks
+%J JOURNAL OF POWER SOURCES
+%D 2014
+%V Vol.271
+%P 570-581
+%K ELECTROCHEMICAL IMPEDANCE SPECTROSCOPY;ENERGY MANAGEMENT STRATEGY;STATE-OF-HEALTH;WATER MANAGEMENT;LOGIC;SYSTEMS;CLASSIFICATION
+%X To improve the performance and lifetime of the low temperature polymer electrolyte membrane fuel cell (PEMFC) stack, water management is an important issue. This paper aims at developing an online diagnostic methodology with the capability of discriminating different degrees of flooding/drying inside the fuel cell stack. Electrochemical impedance spectroscopy (EIS) is utilized as a basis tool and a double-fuzzy method consisting of fuzzy clustering and fuzzy logic is developed to mine diagnostic rules from the experimental data automatically. Through online experimental verification, a high interpretability and computational efficiency of the proposed methodology can be achieved. (C) 2014 Elsevier B.V. All rights reserved.
+%I ; FEMTO ST, Dept Energy, FCLAB Res Federat, FR CNRS 3539,UMR CNRS 6174, Besancon, France ; Univ Franche Comte, F-90010 Belfort, France ; Univ Technol Belfort Montbeliard, F-90010 Belfort, France ; Tsinghua Univ, Dept Elect Engn, Beijing 100084, Peoples R China
+%@ 0378-7753
+%R 10.1016/j.jpowsour.2014.07.157
+
+%0 Journal Article
+%A Zhongliang Li;Rachid Outbib;Daniel Hissel;Stefan Giurgea;
+%O  Laboratoire des Sciences de l׳Information et des Systemes (LSIS), University of Aix-Marseille, France  FEMTO-ST (UMR CNRS 6174), ENERGY Department, University of Franche-Comte, France  FCLAB (Fuel Cell Lab) Research Federation, FR CNRS 3539, rue Thierry Mieg, 90010 Belfort Cedex, France
+%T Data-driven diagnosis of PEM fuel cell: A comparative study
+%J CONTROL ENGINEERING PRACTICE
+%D 2014
+%V Vol.28
+%N No.0
+%P 1-12
+%K Fault diagnosis;PEMFC;Water management;Classification;Feature extraction
+%X This paper is dedicated to data-driven diagnosis for Polymer Electrolyte Membrane Fuel Cell (PEMFC). More precisely, it deals with water related faults (flooding and membrane drying) by using pattern classification methodologies. Firstly, a method based on physical considerations is defined to label the training data. Secondly, a feature extraction procedure is carried out to pick up the significant features from vectors constructed by individual cell voltages. Finally, a classification is adopted in the feature space to realize the fault diagnosis. Various feature extraction and classification methodologies are employed on a 20-cell PEMFC stack. The performances of these methodologies are compared.
+%I  Laboratoire des Sciences de l׳Information et des Systemes (LSIS), University of Aix-Marseille, France  FEMTO-ST (UMR CNRS 6174), ENERGY Department, University of Franche-Comte, France  FCLAB (Fuel Cell Lab) Research Federation, FR CNRS 3539, rue Thierry Mieg, 90010 Belfort Cedex, France
+%@ 0967-0661
+%R 10.1016/j.conengprac.2014.02.019
+

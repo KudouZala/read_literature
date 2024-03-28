@@ -1,0 +1,148 @@
+%0 Journal Article
+%A 李奇，陈维荣，刘述奎，林川，贾俊波
+%O 西南交通大学;南洋理工大学电力电子工程学院
+%T 基于自适应聚焦粒子群算法的质子交换膜燃料电池机理建模
+%J 中国电机工程学报
+%D 2009
+%V 第29卷
+%N 第20期
+%P 119-124
+%K 自适应聚焦粒子群算法；质子交换膜燃料电池；机理建模；参数优化；自适应参数
+%X 自适应聚焦粒子群算法(adaptive focusing particle swarm optimization,AFPSO)是根据粒子群(particle swarm optimization,PSO)算法的全局搜索与局部搜索平衡特性,改进得到的一种具有较好全局搜索能力和寻优速度的自适应群体智能优化算法。根据质子交换膜燃料电池(proton exchange membrane fuel cell,PEMFC)模型的建模原理,利用AFPSO算法进行参数估计,得到一组机理模型的最优参数。通过仿真结果与实验结果的对比分析,证明AFPSO算法能够使仿真结果和实验测试数据之间达到很高的拟合精度,对于模型参数估计具有明显的优越性。因此,AFPSO算法对于改善PEMFC机理模型的输出性能将起到重要的作用,并有望成为模型参数优化领域的一种新的有效工具。
+%I 西南交通大学；南洋理工大学电力电子工程学院
+%@ 0258-8013
+
+
+%0 Journal Article
+%A 蔡光旭，郭建伟，王佳
+%O 中国海洋大学化学化工学院；清华大学核能与新能源技术研究院
+%T 交流阻抗技术在质子交换膜燃料电池上的研究进展
+%J 化工进展
+%D 2014
+%V 第33卷
+%N 第1期
+%P 56-63
+%K 交流阻抗技术；电极；材料；质子交换膜燃料电池
+%X 质子交换膜燃料电池(PEMFC)具有低温、高效、零排放等特点,是有效解决环境污染和能源危机的发电装置,然而其内在电化学、传输机理不明确限制了其发展。交流阻抗技术(EIS)作为研究电极过程动力学和表面现象的重要手段,应用在PEMFC上受到高度重视。本文概括介绍了EIS的应用原理以及对于PEMFC的测量方式,并重点结合电池电极中典型的阻抗谱解析,总结了近来EIS在电池和材料两个方面的研究进展,从原位极化分析、材料性能评估及反应机理剖析等几个方面予以深入,详细分析了各阻抗元件参数对电池和材料改进的指导作用,进而展望了EIS在燃料电池上的应用前景,指出除了采用等效电路加以分析以外,结合数学模型推导将更加完美呈现出阻抗谱数据的特点。
+%I 中国海洋大学化学化工学院；清华大学核能与新能源技术研究院
+%@ 1000-6613
+
+
+%0 Journal Article
+%A Hernandez, A.;Hissel, D.;Outbib, R.
+%O Laboratory of Electrical Engineering and Systems (L2ES), University of Franche-Comte, Belfort Cedex 90010, France;Laboratorie des Sciences de l'Information et des Systemes (LSIS), University of Aix-Marseille II, Domaine Universitaire de Saint Jérme, 13397 Marseille Cedex 20, France
+%T Modeling and fault diagnosis of a polymer electrolyte fuel cell using electrical equivalent analysis(Article)
+%J IEEE Transactions on Energy Conversion
+%D 2010
+%V Vol.25
+%N No.1
+%P 148-160
+%K Equivalent electrical circuit;Flooding;Fuel cell;Fuel cell diagnosis;Modeling
+%X Fuel cell systems are complex systems and a high degree of competence is needed in different areas of knowledge such as thermodynamics, fluid dynamics, electrochemistry, and others, for their comprehension. This paper is a contribution to global modeling and fault diagnosis of these systems. More precisely, the goal of this paper is twofold. First, an electrical equivalent model, which could be used as a unifying approach to fuel cell systems will be resented. Second, a methodology to use the electrical model for fuel cell system diagnosis will be introduced, making special emphasis on fuel cell flooding detection. In order to illustrate the relevance of the proposed approach, experimental validations of the model, and the diagnosis methodology are proposed.
+%I Laboratory of Electrical Engineering and Systems (L2ES), University of Franche-Comte, Belfort Cedex 90010, France;Laboratorie des Sciences de l'Information et des Systemes (LSIS), University of Aix-Marseille II, Domaine Universitaire de Saint Jérme, 13397 Marseille Cedex 20, France
+%@ 0885-8969
+%R 10.1109/TEC.2009.2016121
+
+%0 Journal Article
+%A 王珂，陈维荣，韩明，李奇，游志宇
+%O 西南交通大学电气工程学院；淡马锡理工学院工程学院
+%T 基于电流断路法的空冷型燃料电池阻抗谱实验分析
+%J 中国电机工程学报
+%D 2012
+%V 第32卷
+%N 第29期
+%P 87-93，7
+%K 燃料电池；交流阻抗谱；电流断路法
+%X 空冷型质子交换燃料电池具有冷启动速度快、效率高的优点,因此被广泛应用于中小功率燃料电池的设计中。空冷型质子交换膜燃料电池结构简单,其附属风扇既负责供氧又负责散热,因此风扇风速对燃料电池性能有较大影响。利用简化的Randles等效电路模型和电流断路法测出了不同风速下燃料电池的阻抗谱,并对实验结果进行了分析和讨论。该方法对比传统方法时效性更好,可以测量瞬时阻抗谱,测量所需时间短,并且不需要昂贵的设备。最终的实验结果表明,风速过高会导致交换膜水淹,另一方面风速过低会导致供氧不足,因此合适的风速使燃料电池性能更好。
+%I 西南交通大学电气工程学院；淡马锡理工学院工程学院
+%@ 0258-8013
+%R 10.13334/j.0258-8013.pcsee.2012.29.002
+
+%0 Journal Article
+%A 鲜亮，肖建，贾俊波
+%O 西南交通大学电气工程学院;南洋理工大学电力电子工程学院
+%T 质子交换膜燃料电池交流阻抗谱实验研究
+%J 中国电机工程学报
+%D 2010
+%V 第30卷
+%N 第35期
+%P 101-106
+%K 质子交换膜燃料电池；交流阻抗谱；等效电路模型；拟合曲线
+%X 交流阻抗谱法（electrochemical impedance spectroscopy,EIS）是分析质子交换膜燃料电池（proton exchange membrane fuel cell,PEMFC）内部复杂反应过程的有力工具。该文设计并搭建出了EIS综合抗干扰测试系统,对40片质子交换膜燃料电池堆阳极首片单池2.525 A不同负载电流下的EIS谱图进行了测试。观察到了高频45°直线分支畸变和用以描述阴极水淹程度的低频半圆弧等现象;提出了R（RQ）（RQ）（RQ）的等效电路模型及相关元件参数初值,得到总体误差较小的EIS拟合曲线,其在高频、中频和低频段,都与实测数据变化趋势具有理想的关联度;通过对拟合数据的统计和分析,从PEMFC内部电化学反应机理的角度讨论并解释了单池在整个电池堆中的运行性能随电流密度变化的响应规律及其原因。
+%I 西南交通大学电气工程学院；南洋理工大学电力电子工程学院
+%@ 0258-8013
+%R 10.13334/j.0258-8013.pcsee.2010.35.018
+
+%0 Journal Article
+%A Laribi, S.;Mammar, K.;Sahli, Y.;Koussa, K.
+%O URERMS, Centre de De′veloppement des Energies Renouvelables, Adrar, 01000, Algeria; University of Tahri Mohamed Be′char, Department of Electrical and Computer Engineering, Mohamed Be′char Bp 417, Bechar, Algeria
+%T Air supply temperature impact on the PEMFC impedance
+%J Journal of Energy Storage
+%D 2018
+%V Vol.17
+%P 327-335
+%K Electrochemical impedance spectroscopy;Water management;Impedance model;PEMFC;Drying;Flooding
+%X In this work, a neural network is used to optimize the impedance model of a proton exchange membrane fuel cell (PEMFC). In particular, the model is used to diagnose the effect of the air supply temperature on the water management and humidification of the fuel cell, for an interval of air supply temperature of 60-140 °C to predict the hydration state of the fuel cell (flooding and drying). The Multi-Layer-Perceptron through back propagation training algorithms of the neural network model satisfactorily predicts parameters (the mean square error value of ANN is 6.67 e<sup>-16</sup>). The neural network method is applied to investigate the PEMFC impedance under drying and flooding conditions. The proposed model is validated by the experimental results of the literature at a frequency range of 0.1 Hz-1 kHz, RH = 10%, t = 180 s for drying case and RH = 100%, t = 500 and 1600 s for flooding case. The proposed approach enabled us to identify the five physical parameters of the impedance that exhibited high sensitivity in the PEMFC diagnostic (the membrane resistance, the polarization resistance, the double layer capacitance of the electrode/electrolyte interfaces, the resistance of species diffusion and the time constant of the charges diffusion).
+%I URERMS, Centre de De′veloppement des Energies Renouvelables, Adrar, 01000, Algeria; University of Tahri Mohamed Be′char, Department of Electrical and Computer Engineering, Mohamed Be′char Bp 417, Bechar, Algeria
+%@ 2352-152X
+%R 10.1016/j.est.2018.03.020
+
+%0 Journal Article
+%A N. Fouquet;C. Doulet;C. Nouillant;G. Dauphin-Tanguy;B. Ould-Bouamama
+%O PSA Peugeot-Citroën, Centre Technique de Vélizy, 2, Route de Gisy, Bat. 91 VV141, 78943 Vélizy-Villacoublay, France;LAGIS UMR CNRS 8146, École Centrale de Lille, 59651 Villeneuve d’Ascq, France
+%T Model based PEM fuel cell state-of-health monitoring via ac impedance measurements
+%J Journal of Power Sources
+%D 2006
+%V Vol.159
+%N No.2
+%P 905-913
+%K PEM fuel cell;Water management;Electrochemical impedance spectroscopy;Model-based fault detection and isolation
+%X The present paper deals with monitoring of flooding and drying out of a proton exchange membrane (PEM) fuel cell using a model-based approach coupled with ac impedance measurements. A study of the impedance response of a 150 cm<sup>2</sup> six-cell air/H<sub>2</sub> PEM fuel cell as a function of inlet gas relative humidity was carried out. Parameters of a Randles-like equivalent circuit were then fitted to the data. In order to improve the quality of the fit, the classical Randles cell was extended by changing the standard plane capacitor into a constant phase element (CPE). It was found that monitoring the evolution of the three resistances of this modified Randles model was an efficient and robust way of monitoring the state-of-health (SOH) of the fuel cell with respect to the water content of the membrane electrode assembly. Moreover, the non-integer power of the CPE was found to be statistically constant over a wide range of operating conditions, thus comforting the assumption that it has a physical meaning. Qualitative interpretation of the variation of the parameters as a function of the SOH is proposed in both flooded and dry conditions.
+%I PSA Peugeot-Citroën, Centre Technique de Vélizy, 2, Route de Gisy, Bat. 91 VV141, 78943 Vélizy-Villacoublay, France;LAGIS UMR CNRS 8146, École Centrale de Lille, 59651 Villeneuve d’Ascq, France
+%@ 0378-7753
+%R 10.1016/j.jpowsour.2005.11.035
+
+%0 Journal Article
+%A Hu, Zunyan;Xu, Liangfei;Li, Jianqiu;Gan, Quanquan;Xu, Xin;Song, Ziyou;Shao, Yangbin;Ouyang, Minggao
+%O State Key Lab of Automotive Safety and Energy, Tsinghua University, Beijing 100084, China
+%T A novel diagnostic methodology for fuel cell stack health: Performance, consistency and uniformity
+%J ENERGY CONVERSION AND MANAGEMENT
+%D 2019
+%V Vol.185
+%N No.1
+%P 611-621
+%K Consistency;Degradation;Diagnosis;Durability;Fuel cell;Uniformity
+%X Highlights • An in situ methodology has been proposed for fuel cell stack health diagnosis. • Performance, consistency and uniformity decline have been considered in this methodology. • This diagnostic methodology is easy to be conducted and validated by experiments. Abstract Internal heterogeneity is a significant challenge to the service life of large-format commercial fuel cell stacks. Methods for diagnosing fuel cell stack health, however, are still lacking. This paper proposes a novel diagnostic methodology for analyzing the performance, the consistency between cells and the uniformity within individual cells of fuel cell stacks. Specifically, this three-step methodology can comprehensively analyze the internal heterogeneity of large-format multi-cell stacks. First, a polarization curve test is conducted to provide a quick qualitative performance analysis. Then, the quantitative parameters consistency decline is analyzed by galvanostatic charging and electrochemical impedance spectroscopy methods. Finally, a novel multi-point voltage monitoring method is applied to rule out possible misdiagnoses and to qualitatively analyze cell uniformity. This degradation diagnostic methodology is applied to analyze degradation in several fuel cell stacks, revealing high potential in practice.
+%I State Key Lab of Automotive Safety and Energy, Tsinghua University, Beijing 100084, China
+%@ 0196-8904
+%R 10.1016/j.enconman.2019.02.031
+
+%0 Journal Article
+%A Zheng, ZX (Zheng, Zhixue);Pera, MC (Pera, Marie-Cecile);Hissel, D (Hissel, Daniel);Becherif, M (Becherif, Mohamed);Agbli, KS (Agbli, Krehi-Serge);Li, YD (Li, Yongdong)
+%O ; FEMTO ST, Dept Energy, FCLAB Res Federat, FR CNRS 3539,UMR CNRS 6174, Besancon, France ; Univ Franche Comte, F-90010 Belfort, France ; Univ Technol Belfort Montbeliard, F-90010 Belfort, France ; Tsinghua Univ, Dept Elect Engn, Beijing 100084, Peoples R China
+%T A double-fuzzy diagnostic methodology dedicated to online fault diagnosis of proton exchange membrane fuel cell stacks
+%J JOURNAL OF POWER SOURCES
+%D 2014
+%V Vol.271
+%P 570-581
+%K ELECTROCHEMICAL IMPEDANCE SPECTROSCOPY;ENERGY MANAGEMENT STRATEGY;STATE-OF-HEALTH;WATER MANAGEMENT;LOGIC;SYSTEMS;CLASSIFICATION
+%X To improve the performance and lifetime of the low temperature polymer electrolyte membrane fuel cell (PEMFC) stack, water management is an important issue. This paper aims at developing an online diagnostic methodology with the capability of discriminating different degrees of flooding/drying inside the fuel cell stack. Electrochemical impedance spectroscopy (EIS) is utilized as a basis tool and a double-fuzzy method consisting of fuzzy clustering and fuzzy logic is developed to mine diagnostic rules from the experimental data automatically. Through online experimental verification, a high interpretability and computational efficiency of the proposed methodology can be achieved. (C) 2014 Elsevier B.V. All rights reserved.
+%I ; FEMTO ST, Dept Energy, FCLAB Res Federat, FR CNRS 3539,UMR CNRS 6174, Besancon, France ; Univ Franche Comte, F-90010 Belfort, France ; Univ Technol Belfort Montbeliard, F-90010 Belfort, France ; Tsinghua Univ, Dept Elect Engn, Beijing 100084, Peoples R China
+%@ 0378-7753
+%R 10.1016/j.jpowsour.2014.07.157
+
+%0 Journal Article
+%A Andrej Debenjak;Matej Gasperin;Bostjan Pregelj;Maja Atanasijevic-Kunc;Janko Petrovcic;Vladimir Jovan
+%O Jožef Stefan Institute, Slovenia University of West Bohemia, Faculty of Electrical Engineering/RICE, Plzeň, Czech Republic Centre of Excellence for Low-carbon technologies – CO NOT, Slovenia University of Ljubljana, Faculty of Electrical Engineering, Slovenia
+%T Detection of Flooding and Drying inside a PEM Fuel Cell Stack
+%J Journal of Mechanical Engineering
+%D 2013
+%V Vol.59
+%N No.1
+%P 56-64
+%K PEM fuel ceil system;Electrochemical impedance spectroscopy;Diagnostics;Flooding;Drying
+%X Proton Exchange Membrane (PEM) fuel cells are currently seen as the most suitable choice for implementation into daily-use applications. However, the PEM technology does not yet fulfil all the necessary requirements that the mass-market demands and proper strides towards elimination of remaining issues have to be taken. Hence, in this paper, the focus is made on water management faults, i.e. flooding and drying. More precisely, it deals with detection of them with the use of Electrochemical Impedance Spectroscopy (EIS). The EIS was successfully applied as a diagnostic tool to a fuel cell stack consisted of 80 cells without usage of any special purpose measurement equipment, where, in addition to the stack current, only voltage of the complete stack was measured. The paper describes the modifications that were made on the EIS to make it capable of handling the diagnostics of fuel cell stacks. The results of the experimental study show that the approach is successful in detecting the flooding and drying faults and that for detection only excitation signals with frequencies between 30 and 300 Hz are required. Based on the experimental data and conclusions, a diagnostic decision algorithm is proposed.
+%I Jožef Stefan Institute, Slovenia University of West Bohemia, Faculty of Electrical Engineering/RICE, Plzeň, Czech Republic Centre of Excellence for Low-carbon technologies – CO NOT, Slovenia University of Ljubljana, Faculty of Electrical Engineering, Slovenia
+%@ 0039-2480
+%R 10.5545/sv-jme.2012.640
+
